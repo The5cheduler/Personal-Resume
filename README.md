@@ -1,6 +1,6 @@
 <a href="https://twitter.com/Pratikpkb" target="_blank" rel="nofollow"><img align="right" alt="Pratik's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" /></a><a href="https://www.linkedin.com/in/parth-patel-9p4a1r/" target="_blank" rel="nofollow"><img align="right" alt="Pratik's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /></a>
 
-## 👋 Hi, I’m Pk!
+## 👋 Hi, I’m Tirth!
 - 👀 I at Full Stack Engineer / Data Engineer II [Walmart Canada](https://walmart.ca) developing Machine Learning Models, Big Data Pipelines and Full-Stack application to solve and innovate complex retail problem.
 - 💞️ I’m looking to collaborate on API, Data, AI / ML Projects
 - 📫 Reach me at parthpatel9414@gmail.com
